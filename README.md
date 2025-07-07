@@ -29,7 +29,7 @@ Our mission is to **democratize access to quality education** through a platform
 
 ### Clone the Entire Codebase
 
-```bash
+```
 git clone https://github.com/softtechbro/edtech.git
 cd edtech
 Navigate into Each Project
@@ -38,34 +38,34 @@ cd edtech-mobile → Flutter setup
 cd edtech-web → Web setup (e.g., npm install)
 
 cd edtech-backend → API and DB setup
+```
 
-<u>🧠 Core Team Roles</u>
-Role	Responsibility
----
-Product Manager:
----
-Roadmap, priorities, team alignment
-**Product Designer**:	UI/UX design, user journey optimization
-**Mobile Developer**:	Flutter development for iOS and Android
-**Web Developer**:	Frontend development for the web
-**Backend Developer**:	API, Database, Authentication, Integrations
+#### <u>🧠 Core Team Roles</u>
+##### Role	Responsibility
+###### <u>Product Manager</u>: Roadmap, priorities, team alignment
+###### Product Designer: UI/UX design, user journey optimization
+###### Mobile Developer: Flutter development for iOS and Android
+###### Web Developer: Frontend development for the web
+###### Backend Developer: API, Database, Authentication, Integrations
 
-<u>📂 Folder Structure</u>
-bash
-Copy
-Edit
-softtechbro-edtech/
-│
+#### 📂 Folder Structure
+
+STB-edtech-lab/
+
 ├── edtech-mobile/       # Flutter app
+
 ├── edtech-web/          # Web frontend
+
 ├── edtech-backend/      # Java backend
+
 └── README.md            # You're here!
 
-<u>📣 Contributions & Collaboration</u>
+
+
+#### 📣 Contributions & Collaboration
 We welcome contributions from open-source enthusiasts, students, and educators. Please check the individual repos for contribution guidelines and open issues.
 
-<u>📜 License</u>
+#### 📜 License
 This project is licensed under the MIT License.
 
 🚀 Let’s build the future of education — one line of code at a time.
----
