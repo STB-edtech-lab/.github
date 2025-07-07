@@ -40,8 +40,9 @@ cd edtech-web → Web setup (e.g., npm install)
 cd edtech-backend → API and DB setup
 ```
 
-#### <u>🧠 Core Team Roles</u>
-##### Role	Responsibility
+### Core Team Roles
+---
+#### Role	Responsibility
 ###### <u>Product Manager</u>: Roadmap, priorities, team alignment
 ###### Product Designer: UI/UX design, user journey optimization
 ###### Mobile Developer: Flutter development for iOS and Android
