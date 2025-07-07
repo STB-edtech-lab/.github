@@ -8,9 +8,9 @@ Welcome to the official monorepo for the **SoftTechBro EdTech Platform** — an 
 
 | Repository Name   | Description                                | Technology Stack |
 |-------------------|--------------------------------------------|------------------|
-| [`edtech-mobile`](./edtech-mobile) | Flutter-based mobile app for Android & iOS | Flutter, Dart     |
-| [`edtech-web`](./edtech-web)       | Web interface for the EdTech platform       | React.js / Vue.js |
-| [`edtech-backend`](./edtech-backend) | Backend API and database logic              | Java / PostgreSQL/MySQL |
+| [`edtech-mobile`](https://github.com/STB-edtech-lab/edtech-mobile) | Flutter-based mobile app for Android & iOS | Flutter, Dart     |
+| [`edtech-web`](https://github.com/STB-edtech-lab/edtech-web)      | Web interface for the EdTech platform       | React.js / Vue.js |
+| [`edtech-backend`](https://github.com/STB-edtech-lab/edtech-backend) | Backend API and database logic              | Java / PostgreSQL/MySQL |
 
 ---
 
@@ -54,7 +54,7 @@ STB-edtech-lab/
 
 ├── edtech-mobile/       # Flutter app
 
-├── edtech-web/          # Web frontend
+├── edtech-web/          # React/Vue frontend
 
 ├── edtech-backend/      # Java backend
 
